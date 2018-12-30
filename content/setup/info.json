@@ -3,7 +3,7 @@
   "sitedescription": "For a universe bent by gravitational force.",
   "siteicon": "/images/uploads/icon.png",
   "showmenu": true,
-  "emailsignup": true,
+  "emailsignup": false,
   "menu": [
     {
       "name": "jake101",
