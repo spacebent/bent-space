@@ -1,20 +1,16 @@
 {
   "connectlinks": [
     {
-      "name": "Instagram",
-      "url": "https://instagram.com/jasperketone"
-    },
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/jasperketone"
-    },
-    {
       "name": "Github",
-      "url": "https://github.com/jake-101"
+      "url": "https://https://github.com/spacebent"
     },
     {
-      "name": "Unsplash",
-      "url": "https://unsplash.com/@jake101"
+      "name": "Gitlab",
+      "url": "https://gitlab.com/bentspace"
+    },
+    {
+      "name": "Bitbucket",
+      "url": "https://bitbucket.org/bentspace/"
     }
   ]
 }
