@@ -58,7 +58,7 @@
         </div>
       </div>
       <div class="c-12 xs-text-left xs-p2 xs-border">
-        <div class="item xs-text-6">An open source design by
+        <div class="item xs-text-6">
           <a href="https://bent.space">Bent Space</a>
         </div>
       </div>
