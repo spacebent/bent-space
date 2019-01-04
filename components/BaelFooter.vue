@@ -59,7 +59,7 @@
       </div>
       <div class="c-12 xs-text-left xs-p2 xs-border">
         <div class="item xs-text-6">An open source design by
-          //<a href="https://jake101.com">jake101</a>
+          <a href="https://bent.space">Bent Space</a>
         </div>
       </div>
     </div>
