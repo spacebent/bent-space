@@ -20,6 +20,9 @@ module.exports = {
   ** Headers of the page
   */
 transition: { mode: "in-out"},
+env: {
+  API_URL: process.env.API_URL,
+},
   head: {
     title: siteInfo.sitename,
     meta: [
@@ -33,7 +36,7 @@ transition: { mode: "in-out"},
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Archivo+Black' }
     ]
   },
-  css: ["~/assets/grid.css","bf-solid/dist/solid.2.10.6.css"],
+  css: ["@/assets/grid.css","bf-solid/dist/solid.latest.css"],
   // icon: {
   //   iconSrc: `${siteInfo.siteicon}`
   //  },
