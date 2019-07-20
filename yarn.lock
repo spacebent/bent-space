@@ -1038,7 +1038,7 @@
   resolved "https://registry.yarnpkg.com/@nuxt/builder/-/builder-2.5.1.tgz#4c390dd51d2179afbdc9e35a60b12e8661b57751"
   integrity sha512-h/GT4qoyN7yHxY4JsIgmWpDf5lfpwTBszJaf4nu0AOJyGqMP8sbj5K8X6TzRVjKJeF1dcDNJFFeGJomSNJIFzA==
   dependencies:
-    "@nuxt/devalue" "^1.2.2"
+    "@nuxt/devalue" "^1.2.3"
     "@nuxt/utils" "2.5.1"
     "@nuxt/vue-app" "2.5.1"
     chokidar "^2.1.2"
@@ -1087,7 +1087,7 @@
   integrity sha512-BPGJDRG39utDwCZYbevichsQxsULYjsiOB5DcY80o4JcaDPh49WWfqqrPXgfbK2e2cNlpF6ng/+vGke03kS1Uw==
   dependencies:
     "@nuxt/config" "2.5.1"
-    "@nuxt/devalue" "^1.2.2"
+    "@nuxt/devalue" "^1.2.3"
     "@nuxt/server" "2.5.1"
     "@nuxt/utils" "2.5.1"
     "@nuxt/vue-renderer" "2.5.1"
@@ -1098,9 +1098,9 @@
     hash-sum "^1.0.2"
     std-env "^2.2.1"
 
-"@nuxt/devalue@^1.2.2":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@nuxt/devalue/-/devalue-1.2.2.tgz#1d7993f9a6029df07f597a20246b16282302b156"
+"@nuxt/devalue@^1.2.3":
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/@nuxt/devalue/-/devalue-1.2.3.tgz#1d7993f9a6029df07f597a20246b16282302b156"
   integrity sha512-T3S20YKOG0bzhvFRuGWqXLjqnwTczvRns5BgzHKRosijWHjl6tOpWCIr+2PFC5YQ3gTE4c5ZOLG5wOEcMLvn1w==
   dependencies:
     consola "^2.5.6"
@@ -1201,7 +1201,7 @@
   resolved "https://registry.yarnpkg.com/@nuxt/vue-renderer/-/vue-renderer-2.5.1.tgz#b3a04992d0666ee322360748f716e4c6708e5e6f"
   integrity sha512-XQfXMVT1wla+ugwKITqIvQryBcfPxZGvhWcv2uCOu1yQexUrjvr+jDvY3MWagJ/YnErRoIWof0RHHhiE/yfy5g==
   dependencies:
-    "@nuxt/devalue" "^1.2.2"
+    "@nuxt/devalue" "^1.2.3"
     "@nuxt/utils" "2.5.1"
     consola "^2.5.7"
     fs-extra "^7.0.1"
